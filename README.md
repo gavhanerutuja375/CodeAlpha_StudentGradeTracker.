@@ -30,42 +30,9 @@ The program allows users to input marks, store them using arrays or ArrayLists, 
 
 ---
 
-# 📌 Task 4: Hotel Reservation System
-
-## Description
-The Hotel Reservation System is a Java application that allows users to search available rooms, make reservations, cancel bookings, and view booking details.
-
-## Features
-- Search available hotel rooms
-- Room categorization (Standard, Deluxe, Suite)
-- Book hotel rooms
-- Cancel reservations
-- Payment simulation
-- Store booking data using File Handling
-
-## Technologies Used
-- Java
-- Object-Oriented Programming (OOP)
-- File Handling
-- Collections
-
----
-
-# 🎯 Learning Outcomes
-
-Through these projects, I gained practical experience in:
-
-- Java Programming
-- Object-Oriented Programming
-- File Handling
-- Problem Solving
-- Building real-world applications
-
----
-
 # 🔗 GitHub Repository
 Repository Link:  
-https://github.com/gavhanerutuja375/CodeAlpha_Internship
+[https://github.com/gavhanerutuja375/CodeAlpha_Internship](https://github.com/gavhanerutuja375/CodeAlpha_StudentGradeTracker.)
 
 ---
 
